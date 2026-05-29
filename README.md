@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prajwal Borgave
+# Hi , I'm Prajwal Borgave
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal1221&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal1221" /> </p>
 
